@@ -8,6 +8,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin: 0px 200px;
 }
 .navtittle {
   color: black;
@@ -45,4 +46,16 @@ li > a {
   list-style: none;
   margin-right: 50px;
   text-decoration: none;
+}
+/* header style */
+.head {
+  background-color: #fff8f3;
+}
+.banner {
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+}
+.profile {
+  width: 500px;
 }
